@@ -1,0 +1,72 @@
+about:
+  description: Facebook's branch of Apache Thrift, including a new C++ server.
+  license: Apache-2.0
+  homepage: 
+  head: a56a22a
+  archived: false
+  latestVersion: v2020.08.24.00
+  collectedAt: 2026-08-29T06:57:02Z
+timeline:
+  created: 2013-07-02
+  lastCommit: 2026-08-29
+  lastRelease: 2020-08-28
+popularity:
+  star: 2698
+  watcher: 184
+  fork: 645
+  release: 2
+  contributor: 771
+  pullRequest: 267
+  issue: 392
+language:
+  C++: 24213794
+  Python: 3685385
+  Thrift: 3572206
+  Java: 3158494
+  Rust: 1073248
+  Hack: 1028706
+  Go: 852818
+  Cython: 772045
+  CMake: 279521
+  C#: 185422
+  Swift: 101333
+  Shell: 31611
+  C: 17794
+  Emacs Lisp: 11264
+  Jinja: 4921
+  Vim Script: 3004
+  Dockerfile: 305
+totalLine: 38991871
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 0
+    mergedPR: 0
+    openPR: 1
+    closedIssue: 0
+    openIssue: 0
+    commit: 121
+  last90d:
+    since: 2026-05-31
+    release: 0
+    mergedPR: 2
+    openPR: 4
+    closedIssue: 0
+    openIssue: 2
+    commit: 617
+  last180d:
+    since: 2026-03-02
+    release: 0
+    mergedPR: 2
+    openPR: 5
+    closedIssue: 3
+    openIssue: 2
+    commit: 1614
+  last360d:
+    since: 2025-09-03
+    release: 0
+    mergedPR: 3
+    openPR: 7
+    closedIssue: 4
+    openIssue: 9
+    commit: 3228
