@@ -2,13 +2,13 @@ about:
   description: "Facebook's branch of Apache Thrift, including a new C++ server."
   license: Apache-2.0
   homepage: 
-  head: 4beda4b
+  head: e258e26
   archived: false
   latestVersion: "v2020.08.24.00"
-  collectedAt: 2026-09-07T05:18:47Z
+  collectedAt: 2026-09-07T19:07:12Z
 timeline:
   created: 2013-07-02
-  lastCommit: 2026-09-06
+  lastCommit: 2026-09-07
   lastRelease: 2020-08-28
 popularity:
   star: 2697
@@ -19,7 +19,7 @@ popularity:
   pullRequest: 288
   issue: 392
 language:
-  C++: 24617519
+  C++: 24618824
   Python: 3696225
   Thrift: 3575384
   Java: 3215901
@@ -36,7 +36,7 @@ language:
   Jinja: 4921
   Vim Script: 3004
   Dockerfile: 305
-totalBytes: 39471931
+totalBytes: 39473236
 recent:
   last30d:
     since: 2026-08-08
@@ -85,17 +85,17 @@ recent:
     openPR: 8
     closedIssue: 6
     openIssue: 21
-    commit: 9275
+    commit: 9277
 total:
   release: 2
   mergedPR: 21
   openPR: 8
   closedIssue: 345
   openIssue: 47
-  commit: 35598
+  commit: 35600
 ---
 path: /home/runner/.x-repo/github.com/facebook/fbthrift
-collectedAt: 2026-09-07T05:19:41Z
+collectedAt: 2026-09-07T19:08:06Z
 loc:
   Java:
     code: 596125
@@ -113,14 +113,14 @@ loc:
     blanks: 85515
     files: 854
   Cpp:
-    code: 415047
+    code: 415065
     comments: 50995
-    blanks: 63710
+    blanks: 63716
     files: 1762
   CHeader:
-    code: 251028
-    comments: 61768
-    blanks: 49261
+    code: 251032
+    comments: 61776
+    blanks: 49262
     files: 1889
   Rust:
     code: 178232
@@ -253,9 +253,9 @@ loc:
     blanks: 0
     files: 8
 total:
-  code: 2878658
-  comments: 373738
-  blanks: 493881
+  code: 2878680
+  comments: 373746
+  blanks: 493888
   files: 13834
 ---
 date: "2026-08-24"
@@ -497,7 +497,7 @@ checks:
       - 'Warn: no fuzzer integrations found'
 ---
 eget:
-  collectedAt: 2026-09-07T05:19:46+00:00
+  collectedAt: 2026-09-07T19:08:22+00:00
   platform:
     darwin/arm64:
       name:  null
