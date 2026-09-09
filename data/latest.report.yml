@@ -2,12 +2,12 @@ about:
   description: "Facebook's branch of Apache Thrift, including a new C++ server."
   license: Apache-2.0
   homepage: 
-  head: ba23b8e
+  head: 70e61b6
   archived: false
   latestVersion: "v2020.08.24.00"
   latestRelease: "v2020.08.24.00"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:10:05Z
+  collectedAt: 2026-09-09T19:43:22Z
 timeline:
   created: 2013-07-02
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2020-08-28
   lastPrerelease: 
 popularity:
-  star: 2697
+  star: 2698
   watcher: 184
   fork: 647
   release: 2
@@ -23,7 +23,7 @@ popularity:
   pullRequest: 288
   issue: 392
 language:
-  C++: 24695011
+  C++: 24690501
   Python: 3696225
   Thrift: 3579627
   Java: 3215901
@@ -31,7 +31,7 @@ language:
   Hack: 1028459
   Go: 856174
   Cython: 776746
-  CMake: 283284
+  CMake: 285500
   C#: 185422
   Swift: 101333
   Shell: 31611
@@ -40,7 +40,7 @@ language:
   Jinja: 4921
   Vim Script: 3004
   Dockerfile: 305
-totalBytes: 39584265
+totalBytes: 39581971
 recent:
   last30d:
     since: 2026-08-10
@@ -49,7 +49,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 123
+    commit: 132
   last60d:
     since: 2026-07-11
     release: 0
@@ -57,7 +57,7 @@ recent:
     openPR: 1
     closedIssue: 0
     openIssue: 2
-    commit: 303
+    commit: 312
   last90d:
     since: 2026-06-11
     release: 0
@@ -65,7 +65,7 @@ recent:
     openPR: 3
     closedIssue: 0
     openIssue: 2
-    commit: 562
+    commit: 571
   last180d:
     since: 2026-03-13
     release: 0
@@ -73,7 +73,7 @@ recent:
     openPR: 5
     closedIssue: 2
     openIssue: 2
-    commit: 1450
+    commit: 1459
   last360d:
     since: 2025-09-14
     release: 0
@@ -81,7 +81,7 @@ recent:
     openPR: 7
     closedIssue: 4
     openIssue: 8
-    commit: 3157
+    commit: 3166
   last720d:
     since: 2024-09-19
     release: 0
@@ -89,17 +89,17 @@ recent:
     openPR: 8
     closedIssue: 6
     openIssue: 21
-    commit: 9268
+    commit: 9281
 total:
   release: 2
   mergedPR: 21
   openPR: 8
   closedIssue: 345
   openIssue: 47
-  commit: 35619
+  commit: 35632
 ---
 path: /home/runner/.x-repo/github.com/facebook/fbthrift
-collectedAt: 2026-09-09T05:11:43Z
+collectedAt: 2026-09-09T19:44:24Z
 loc:
   Java:
     code: 596125
@@ -117,14 +117,14 @@ loc:
     blanks: 85516
     files: 854
   Cpp:
-    code: 416305
-    comments: 51107
-    blanks: 64006
-    files: 1765
+    code: 416558
+    comments: 51096
+    blanks: 64008
+    files: 1766
   CHeader:
-    code: 251677
-    comments: 61685
-    blanks: 49400
+    code: 251533
+    comments: 61542
+    blanks: 49379
     files: 1892
   Rust:
     code: 178772
@@ -167,9 +167,9 @@ loc:
     blanks: 2801
     files: 15
   CMake:
-    code: 5291
-    comments: 1966
-    blanks: 699
+    code: 5305
+    comments: 1983
+    blanks: 702
     files: 56
   Toml:
     code: 1759
@@ -222,9 +222,9 @@ loc:
     blanks: 13
     files: 1
   Autoconf:
-    code: 33
-    comments: 31
-    blanks: 13
+    code: 34
+    comments: 37
+    blanks: 14
     files: 1
   Bash:
     code: 18
@@ -243,7 +243,7 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 12908
+    comments: 12906
     blanks: 4679
     files: 75
   Text:
@@ -257,10 +257,10 @@ loc:
     blanks: 0
     files: 8
 total:
-  code: 2880919
-  comments: 373870
-  blanks: 494376
-  files: 13841
+  code: 2881043
+  comments: 373737
+  blanks: 494361
+  files: 13842
 ---
 date: "2026-09-07"
 repo:
