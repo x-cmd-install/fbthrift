@@ -2,12 +2,12 @@ about:
   description: "Facebook's branch of Apache Thrift, including a new C++ server."
   license: Apache-2.0
   homepage: 
-  head: 651d563
+  head: 8bcfe53
   archived: false
   latestVersion: "v2020.08.24.00"
   latestRelease: "v2020.08.24.00"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:48:16Z
+  collectedAt: 2026-09-10T23:01:25Z
 timeline:
   created: 2013-07-02
   lastCommit: 2026-09-10
@@ -23,7 +23,7 @@ popularity:
   pullRequest: 288
   issue: 392
 language:
-  C++: 24748352
+  C++: 24748877
   Python: 3696225
   Thrift: 3579627
   Java: 3215901
@@ -31,7 +31,7 @@ language:
   Hack: 1028459
   Go: 853695
   Cython: 776746
-  CMake: 286774
+  CMake: 287032
   C#: 185422
   Swift: 101333
   Shell: 31611
@@ -40,7 +40,7 @@ language:
   Jinja: 4921
   Vim Script: 3004
   Dockerfile: 305
-totalBytes: 39638617
+totalBytes: 39639400
 recent:
   last30d:
     since: 2026-08-11
@@ -49,7 +49,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 147
+    commit: 151
   last60d:
     since: 2026-07-12
     release: 0
@@ -57,7 +57,7 @@ recent:
     openPR: 1
     closedIssue: 0
     openIssue: 2
-    commit: 327
+    commit: 331
   last90d:
     since: 2026-06-12
     release: 0
@@ -65,7 +65,7 @@ recent:
     openPR: 3
     closedIssue: 0
     openIssue: 2
-    commit: 586
+    commit: 590
   last180d:
     since: 2026-03-14
     release: 0
@@ -73,7 +73,7 @@ recent:
     openPR: 5
     closedIssue: 2
     openIssue: 2
-    commit: 1474
+    commit: 1478
   last360d:
     since: 2025-09-15
     release: 0
@@ -81,7 +81,7 @@ recent:
     openPR: 7
     closedIssue: 4
     openIssue: 8
-    commit: 3181
+    commit: 3185
   last720d:
     since: 2024-09-20
     release: 0
@@ -89,17 +89,17 @@ recent:
     openPR: 8
     closedIssue: 6
     openIssue: 21
-    commit: 9292
+    commit: 9296
 total:
   release: 2
   mergedPR: 21
   openPR: 8
   closedIssue: 345
   openIssue: 47
-  commit: 35653
+  commit: 35657
 ---
 path: /home/runner/.x-repo/github.com/facebook/fbthrift
-collectedAt: 2026-09-10T20:49:00Z
+collectedAt: 2026-09-10T23:02:27Z
 loc:
   Java:
     code: 596125
@@ -122,9 +122,9 @@ loc:
     blanks: 64151
     files: 1767
   CHeader:
-    code: 252071
-    comments: 61625
-    blanks: 49435
+    code: 252077
+    comments: 61631
+    blanks: 49437
     files: 1893
   Rust:
     code: 178772
@@ -167,9 +167,9 @@ loc:
     blanks: 2801
     files: 15
   CMake:
-    code: 5324
-    comments: 1993
-    blanks: 699
+    code: 5330
+    comments: 1995
+    blanks: 698
     files: 56
   Toml:
     code: 1759
@@ -243,7 +243,7 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 12907
+    comments: 12904
     blanks: 4679
     files: 75
   Text:
@@ -257,9 +257,9 @@ loc:
     blanks: 0
     files: 8
 total:
-  code: 2882344
-  comments: 373863
-  blanks: 494545
+  code: 2882356
+  comments: 373868
+  blanks: 494546
   files: 13844
 ---
 date: "2026-09-07"
