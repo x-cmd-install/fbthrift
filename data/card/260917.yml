@@ -500,4 +500,3 @@ checks:
     details:
       - 'Warn: no fuzzer integrations found'
 ---
-{"id":30340975,"author":{"login":"vitaut","id":576385,"node_id":"MDQ6VXNlcjU3NjM4NQ==","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"MDc6UmVsZWFzZTMwMzQwOTc1","tag_name":"v2020.08.24.00","target_commitish":"master","name":"v2020.08.24.00","draft":false,"immutable":false,"prerelease":false,"created_at":"2020-08-24T08:05:21Z","updated_at":"2020-08-28T17:49:07Z","published_at":"2020-08-28T17:48:45Z","assets":[],"body":"","reactions":{"total_count":2,"+1":2,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":0,"eyes":0}}
