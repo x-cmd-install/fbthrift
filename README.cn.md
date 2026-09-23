@@ -4,7 +4,7 @@
 
 Facebook's branch of Apache Thrift, including a new C++ server.
 
-[![x-cmd/install — fbthrift Code Quality Monitoring Repo Card](https://repo.x-cmd.io/fbthrift.svg?lang=zh)](https://x-cmd.com/install/fbthrift)
+[![x-cmd/install — fbthrift Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/fbthrift.svg?lang=zh)](https://x-cmd.com/install/fbthrift)
 
 ## 安装
 
@@ -14,14 +14,14 @@ x install fbthrift
 
 ## 代码洞察
 
-合计: **2,879,566** 行代码（覆盖前 5 种语言、共 **10444** 个文件）。
+合计: **2,879,953** 行代码（覆盖前 5 种语言、共 **10444** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Java | 596,125 | 75,621 | 109,430 | 3729 |
-| Python | 497,485 | 25,689 | 87,425 | 2196 |
-| Php | 442,230 | 88,265 | 85,517 | 854 |
-| Cpp | 418,836 | 51,252 | 64,411 | 1771 |
+| Python | 497,599 | 25,689 | 87,428 | 2196 |
+| Php | 442,292 | 88,265 | 85,534 | 854 |
+| Cpp | 419,047 | 51,252 | 64,423 | 1771 |
 | CHeader | 248,464 | 61,786 | 49,578 | 1894 |
 
 ## OpenSSF Scorecard 评分
@@ -46,22 +46,22 @@ x install fbthrift
 
 ## 流行度
 
-- **Star**: 2,698 · **Fork**: 648 · **开放 issue**: 392 · **贡献者**: 771
+- **Star**: 2,698 · **Fork**: 647 · **开放 issue**: 392 · **贡献者**: 771
 
 ## 累计统计
 
-- **发布数**: 2 · **已合并 PR**: 21 · **开放 PR**: 4 · **已关闭 issue**: 346 · **开放 issue**: 46 · **提交数**: 35819
+- **发布数**: 2 · **已合并 PR**: 21 · **开放 PR**: 4 · **已关闭 issue**: 346 · **开放 issue**: 46 · **提交数**: 35826
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 199 |
-| last60d | 2026-07-24 | 0 | 0 | 1 | 0 | 2 | 316 |
-| 90d | 2026-06-24 | 0 | 0 | 2 | 0 | 2 | 586 |
-| last180d | 2026-03-26 | 0 | 2 | 2 | 2 | 2 | 1336 |
-| 360d | 2025-09-27 | 0 | 3 | 3 | 4 | 6 | 3095 |
-| last720d | 2024-10-02 | 0 | 6 | 4 | 7 | 20 | 9368 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 203 |
+| last60d | 2026-07-25 | 0 | 0 | 1 | 0 | 2 | 320 |
+| 90d | 2026-06-25 | 0 | 0 | 2 | 0 | 2 | 590 |
+| last180d | 2026-03-27 | 0 | 2 | 2 | 2 | 2 | 1340 |
+| 360d | 2025-09-28 | 0 | 3 | 3 | 4 | 6 | 3099 |
+| last720d | 2024-10-03 | 0 | 6 | 4 | 7 | 20 | 9363 |
 
 ## 改进这些数据
 
@@ -72,4 +72,4 @@ fbthrift 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:23:35Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:25:20Z._
