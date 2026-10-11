@@ -14,7 +14,7 @@ x install fbthrift
 
 ## Code insight
 
-Total: **2,932,936** lines of code across **10588** files in the top 5 languages.
+Total: **2,933,043** lines of code across **10589** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -22,7 +22,7 @@ Total: **2,932,936** lines of code across **10588** files in the top 5 languages
 | Python | 504,956 | 26,028 | 88,590 | 2213 |
 | Php | 444,457 | 88,879 | 86,068 | 862 |
 | Cpp | 438,695 | 52,727 | 67,185 | 1818 |
-| CHeader | 257,657 | 63,086 | 50,867 | 1935 |
+| CHeader | 257,764 | 63,102 | 50,887 | 1936 |
 
 ## OpenSSF Scorecard
 
@@ -50,18 +50,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 2 · **Merged PRs**: 21 · **Open PRs**: 5 · **Closed issues**: 348 · **Open issues**: 45 · **Commits**: 36161
+- **Releases**: 2 · **Merged PRs**: 21 · **Open PRs**: 5 · **Closed issues**: 348 · **Open issues**: 45 · **Commits**: 36163
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 0 | 0 | 1 | 1 | 0 | 291 |
-| last60d | 2026-08-11 | 0 | 0 | 1 | 1 | 0 | 449 |
-| 90d | 2026-07-12 | 0 | 0 | 2 | 2 | 1 | 650 |
-| last180d | 2026-04-13 | 0 | 2 | 3 | 4 | 1 | 1304 |
-| 360d | 2025-10-15 | 0 | 3 | 4 | 6 | 4 | 3100 |
-| last720d | 2024-10-20 | 0 | 6 | 5 | 8 | 18 | 9484 |
+| 30d | 2026-09-11 | 0 | 0 | 1 | 1 | 0 | 207 |
+| last60d | 2026-08-12 | 0 | 0 | 1 | 1 | 0 | 428 |
+| 90d | 2026-07-13 | 0 | 0 | 2 | 2 | 1 | 581 |
+| last180d | 2026-04-14 | 0 | 2 | 3 | 4 | 1 | 1223 |
+| 360d | 2025-10-16 | 0 | 3 | 4 | 6 | 4 | 3052 |
+| last720d | 2024-10-21 | 0 | 6 | 5 | 8 | 18 | 9483 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for fbthrift lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T06:14:08Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T06:15:00Z._
