@@ -14,15 +14,15 @@ x install fbthrift
 
 ## Code insight
 
-Total: **2,933,043** lines of code across **10589** files in the top 5 languages.
+Total: **2,933,424** lines of code across **10593** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Java | 599,976 | 76,325 | 110,258 | 3760 |
 | Python | 504,956 | 26,028 | 88,590 | 2213 |
 | Php | 444,457 | 88,879 | 86,068 | 862 |
-| Cpp | 438,695 | 52,727 | 67,185 | 1818 |
-| CHeader | 257,764 | 63,102 | 50,887 | 1936 |
+| Cpp | 438,927 | 52,737 | 67,228 | 1819 |
+| CHeader | 257,913 | 63,135 | 50,921 | 1939 |
 
 ## OpenSSF Scorecard
 
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2020.08.24.00` (2020-08-28)
-- **Last commit**: 2026-10-10
+- **Last commit**: 2026-10-12
 
 ## Popularity
 
@@ -50,18 +50,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 2 · **Merged PRs**: 21 · **Open PRs**: 5 · **Closed issues**: 348 · **Open issues**: 45 · **Commits**: 36163
+- **Releases**: 2 · **Merged PRs**: 21 · **Open PRs**: 5 · **Closed issues**: 348 · **Open issues**: 45 · **Commits**: 36170
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 0 | 0 | 1 | 1 | 0 | 207 |
-| last60d | 2026-08-12 | 0 | 0 | 1 | 1 | 0 | 428 |
-| 90d | 2026-07-13 | 0 | 0 | 2 | 2 | 1 | 581 |
-| last180d | 2026-04-14 | 0 | 2 | 3 | 4 | 1 | 1223 |
-| 360d | 2025-10-16 | 0 | 3 | 4 | 6 | 4 | 3052 |
-| last720d | 2024-10-21 | 0 | 6 | 5 | 8 | 18 | 9483 |
+| 30d | 2026-09-12 | 0 | 0 | 1 | 1 | 0 | 207 |
+| last60d | 2026-08-13 | 0 | 0 | 1 | 1 | 0 | 428 |
+| 90d | 2026-07-14 | 0 | 0 | 2 | 2 | 1 | 581 |
+| last180d | 2026-04-15 | 0 | 2 | 3 | 4 | 1 | 1223 |
+| 360d | 2025-10-17 | 0 | 3 | 4 | 6 | 4 | 3052 |
+| last720d | 2024-10-22 | 0 | 6 | 5 | 8 | 18 | 9467 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for fbthrift lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T06:15:00Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T06:21:18Z._
