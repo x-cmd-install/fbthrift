@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-Facebook's branch of Apache Thrift, including a new C++ server.
+Meta's Thrift implementation: cross-language serialization and high-performance async RPC
 
 [![x-cmd/install — fbthrift Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/fbthrift.svg)](https://x-cmd.com/install/fbthrift)
 
@@ -14,15 +14,15 @@ x install fbthrift
 
 ## Code insight
 
-Total: **2,935,977** lines of code across **10609** files in the top 5 languages.
+Total: **2,936,739** lines of code across **10610** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Java | 599,976 | 76,325 | 110,258 | 3760 |
-| Python | 507,008 | 26,239 | 89,016 | 2224 |
-| Php | 444,859 | 88,962 | 86,129 | 866 |
-| Cpp | 438,956 | 52,766 | 67,243 | 1820 |
-| CHeader | 257,895 | 63,146 | 50,922 | 1939 |
+| Python | 507,063 | 26,257 | 89,026 | 2225 |
+| Php | 444,855 | 88,962 | 86,129 | 866 |
+| Cpp | 439,479 | 52,803 | 67,290 | 1820 |
+| CHeader | 257,989 | 63,169 | 50,936 | 1939 |
 
 ## OpenSSF Scorecard
 
@@ -42,26 +42,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2020.08.24.00` (2020-08-28)
-- **Last commit**: 2026-10-13
+- **Last commit**: 2026-10-14
 
 ## Popularity
 
-- **Stars**: 2,698 · **Forks**: 646 · **Open issues**: 393 · **Contributors**: 773
+- **Stars**: 2,698 · **Forks**: 646 · **Open issues**: 393 · **Contributors**: 774
 
 ## Totals (cumulative)
 
-- **Releases**: 2 · **Merged PRs**: 21 · **Open PRs**: 5 · **Closed issues**: 348 · **Open issues**: 45 · **Commits**: 36187
+- **Releases**: 2 · **Merged PRs**: 21 · **Open PRs**: 5 · **Closed issues**: 348 · **Open issues**: 45 · **Commits**: 36211
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 0 | 1 | 1 | 0 | 213 |
-| last60d | 2026-08-14 | 0 | 0 | 1 | 1 | 0 | 434 |
-| 90d | 2026-07-15 | 0 | 0 | 2 | 2 | 1 | 587 |
-| last180d | 2026-04-16 | 0 | 2 | 3 | 4 | 1 | 1229 |
-| 360d | 2025-10-18 | 0 | 3 | 4 | 6 | 4 | 3058 |
-| last720d | 2024-10-23 | 0 | 6 | 5 | 8 | 18 | 9472 |
+| 30d | 2026-09-14 | 0 | 0 | 1 | 1 | 0 | 222 |
+| last60d | 2026-08-15 | 0 | 0 | 1 | 1 | 0 | 443 |
+| 90d | 2026-07-16 | 0 | 0 | 2 | 2 | 1 | 596 |
+| last180d | 2026-04-17 | 0 | 2 | 3 | 4 | 1 | 1238 |
+| 360d | 2025-10-19 | 0 | 3 | 4 | 6 | 4 | 3067 |
+| last720d | 2024-10-24 | 0 | 6 | 5 | 8 | 18 | 9463 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for fbthrift lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:15:31Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:18:55Z._
