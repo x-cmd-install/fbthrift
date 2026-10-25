@@ -14,11 +14,11 @@ x install fbthrift
 
 ## Code insight
 
-Total: **2,538,292** lines of code across **10350** files in the top 5 languages.
+Total: **2,538,299** lines of code across **10350** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 602,877 | 76,699 | 110,849 | 3775 |
+| Java | 602,884 | 76,699 | 110,850 | 3775 |
 | Python | 517,224 | 26,822 | 90,403 | 2231 |
 | Cpp | 437,338 | 52,285 | 67,052 | 1830 |
 | CHeader | 258,672 | 63,209 | 51,113 | 1945 |
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2020.08.24.00` (2020-08-28)
-- **Last commit**: 2026-10-24
+- **Last commit**: 2026-10-25
 
 ## Popularity
 
@@ -50,18 +50,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 2 · **Merged PRs**: 21 · **Open PRs**: 6 · **Closed issues**: 348 · **Open issues**: 45 · **Commits**: 36462
+- **Releases**: 2 · **Merged PRs**: 21 · **Open PRs**: 6 · **Closed issues**: 348 · **Open issues**: 45 · **Commits**: 36467
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 0 | 0 | 1 | 1 | 0 | 338 |
-| last60d | 2026-08-25 | 0 | 0 | 2 | 1 | 0 | 584 |
-| 90d | 2026-07-26 | 0 | 0 | 3 | 2 | 1 | 707 |
-| last180d | 2026-04-27 | 0 | 2 | 4 | 3 | 1 | 1348 |
-| 360d | 2025-10-29 | 0 | 3 | 5 | 6 | 4 | 3138 |
-| last720d | 2024-11-03 | 0 | 6 | 6 | 8 | 18 | 9571 |
+| 30d | 2026-09-25 | 0 | 0 | 1 | 1 | 0 | 281 |
+| last60d | 2026-08-26 | 0 | 0 | 2 | 1 | 0 | 548 |
+| 90d | 2026-07-27 | 0 | 0 | 3 | 2 | 1 | 668 |
+| last180d | 2026-04-28 | 0 | 2 | 4 | 3 | 1 | 1311 |
+| 360d | 2025-10-30 | 0 | 3 | 5 | 6 | 4 | 3054 |
+| last720d | 2024-11-04 | 0 | 6 | 6 | 8 | 18 | 9574 |
 
 ## Distribution status
 
@@ -81,4 +81,4 @@ Install metadata for fbthrift lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T04:59:50Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:03:18Z._
