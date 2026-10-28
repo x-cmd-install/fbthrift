@@ -1,15 +1,3 @@
-- repo: aosc
-  srcname: app-network/fbthrift
-  binname: fbthrift
-  visiblename: fbthrift
-  version: 2026.06.22.00
-  origversion: null
-  status: outdated
-  summary: Serialization and RPC framework for service communication
-  maintainers:
-    - fallback-mnt-aosc@repology
-  categories:
-    - net
 - repo: aur
   srcname: fbthrift
   binname: fbthrift
@@ -22,6 +10,18 @@
     - fallback-mnt-aur@repology
   licenses:
     - Apache-2.0
+- repo: aosc
+  srcname: app-network/fbthrift
+  binname: fbthrift
+  visiblename: fbthrift
+  version: 2026.06.22.00
+  origversion: null
+  status: outdated
+  summary: Serialization and RPC framework for service communication
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - net
 - repo: aur
   srcname: fbthrift-git
   binname: fbthrift-git
@@ -172,6 +172,15 @@
     - Apache-2.0
   categories:
     - dev-cpp
+- repo: xrepo
+  srcname: fbthrift
+  visiblename: fbthrift
+  version: 2024.07.01
+  origversion: null
+  status: legacy
+  summary: Facebook's branch of Apache Thrift, including a new C++ server.
+  licenses:
+    - Apache-2.0
 - repo: gentoo
   srcname: dev-cpp/fbthrift
   visiblename: dev-cpp/fbthrift
@@ -189,7 +198,7 @@
 - repo: homebrew
   srcname: fbthrift
   visiblename: fbthrift
-  version: 2026.10.19.00
+  version: 2026.10.26.00
   origversion: null
   status: newest
   summary: Facebook's branch of Apache Thrift, including a new C++ server
@@ -429,15 +438,6 @@
   srcname: fbthrift
   visiblename: fbthrift
   version: 2024.06.24
-  origversion: null
-  status: legacy
-  summary: Facebook's branch of Apache Thrift, including a new C++ server.
-  licenses:
-    - Apache-2.0
-- repo: xrepo
-  srcname: fbthrift
-  visiblename: fbthrift
-  version: 2024.07.01
   origversion: null
   status: legacy
   summary: Facebook's branch of Apache Thrift, including a new C++ server.
