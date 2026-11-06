@@ -14,15 +14,15 @@ x install fbthrift
 
 ## Code insight
 
-Total: **2,588,303** lines of code across **10447** files in the top 5 languages.
+Total: **2,591,308** lines of code across **10451** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 611,117 | 78,105 | 112,255 | 3808 |
-| Python | 527,545 | 27,421 | 91,855 | 2238 |
-| Cpp | 450,923 | 52,945 | 68,725 | 1860 |
-| CHeader | 261,525 | 64,147 | 51,486 | 1965 |
-| Rust | 202,577 | 5,790 | 25,173 | 576 |
+| Java | 613,141 | 78,548 | 112,535 | 3814 |
+| Python | 527,891 | 27,449 | 91,901 | 2240 |
+| Cpp | 452,109 | 53,038 | 68,949 | 1862 |
+| CHeader | 260,411 | 64,120 | 51,306 | 1959 |
+| Rust | 202,623 | 5,794 | 25,179 | 576 |
 
 ## OpenSSF Scorecard
 
@@ -42,26 +42,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2020.08.24.00` (2020-08-28)
-- **Last commit**: 2026-11-05
+- **Last commit**: 2026-11-06
 
 ## Popularity
 
-- **Stars**: 2,703 · **Forks**: 651 · **Open issues**: 393 · **Contributors**: 785
+- **Stars**: 2,703 · **Forks**: 651 · **Open issues**: 393 · **Contributors**: 786
 
 ## Totals (cumulative)
 
-- **Releases**: 2 · **Merged PRs**: 21 · **Open PRs**: 5 · **Closed issues**: 348 · **Open issues**: 45 · **Commits**: 36789
+- **Releases**: 2 · **Merged PRs**: 21 · **Open PRs**: 5 · **Closed issues**: 348 · **Open issues**: 45 · **Commits**: 36828
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-06 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-07 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-09 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-10 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-07 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-07 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-08 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-10 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-16 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Distribution status
 
@@ -81,4 +81,4 @@ Install metadata for fbthrift lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T07:08:37Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T07:09:07Z._
