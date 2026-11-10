@@ -14,15 +14,15 @@ x install fbthrift
 
 ## Code insight
 
-Total: **2,593,287** lines of code across **10451** files in the top 5 languages.
+Total: **2,587,359** lines of code across **10443** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 613,141 | 78,548 | 112,535 | 3814 |
-| Python | 527,934 | 27,455 | 91,906 | 2240 |
-| Cpp | 453,737 | 53,062 | 69,158 | 1862 |
-| CHeader | 260,787 | 64,176 | 51,357 | 1959 |
-| Rust | 202,623 | 5,794 | 25,179 | 576 |
+| Java | 608,909 | 77,608 | 111,944 | 3807 |
+| Python | 527,374 | 27,407 | 91,722 | 2240 |
+| Cpp | 453,818 | 53,071 | 69,171 | 1862 |
+| CHeader | 260,979 | 64,206 | 51,363 | 1958 |
+| Rust | 201,766 | 5,769 | 25,093 | 576 |
 
 ## OpenSSF Scorecard
 
@@ -42,30 +42,30 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2020.08.24.00` (2020-08-28)
-- **Last commit**: 2026-11-09
+- **Last commit**: 2026-11-10
 
 ## Popularity
 
-- **Stars**: 2,703 · **Forks**: 651 · **Open issues**: 393 · **Contributors**: 786
+- **Stars**: 2,702 · **Forks**: 651 · **Open issues**: 393 · **Contributors**: 789
 
 ## Totals (cumulative)
 
-- **Releases**: 2 · **Merged PRs**: 21 · **Open PRs**: 6 · **Closed issues**: 348 · **Open issues**: 45 · **Commits**: 36862
+- **Releases**: 2 · **Merged PRs**: 22 · **Open PRs**: 5 · **Closed issues**: 348 · **Open issues**: 45 · **Commits**: 36891
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-10 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-13 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-19 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-20 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Distribution status
 
-Reported by **38** distros on [repology.org](https://repology.org/project/fbthrift). **1** are ✅ on the latest upstream release, **21** are ⚠️ on an older version.
+Reported by **38** distros on [repology.org](https://repology.org/project/fbthrift). **2** are ✅ on the latest upstream release, **20** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -81,4 +81,4 @@ Install metadata for fbthrift lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T06:58:24Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:43:37Z._
