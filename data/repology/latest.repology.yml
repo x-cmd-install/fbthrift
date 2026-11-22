@@ -1,18 +1,12 @@
-- repo: fedora_43
-  subrepo: release
+- repo: xrepo
   srcname: fbthrift
-  binnames:
-    - fbthrift
-    - fbthrift-devel
   visiblename: fbthrift
-  version: 2025.02.03.00
-  origversion: 2025.02.03.00-1.fc43
+  version: 2024.07.15
+  origversion: null
   status: outdated
-  summary: Facebook's branch of Apache Thrift, including a new C++ server
+  summary: Facebook's branch of Apache Thrift, including a new C++ server.
   licenses:
     - Apache-2.0
-  categories:
-    - Unspecified
 - repo: aosc
   srcname: app-network/fbthrift
   binname: fbthrift
@@ -146,6 +140,21 @@
     - Apache-2.0
   categories:
     - Unspecified
+- repo: fedora_43
+  subrepo: release
+  srcname: fbthrift
+  binnames:
+    - fbthrift
+    - fbthrift-devel
+  visiblename: fbthrift
+  version: 2025.02.03.00
+  origversion: 2025.02.03.00-1.fc43
+  status: outdated
+  summary: Facebook's branch of Apache Thrift, including a new C++ server
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
 - repo: freebsd
   srcname: devel/fbthrift
   binname: fbthrift
@@ -256,6 +265,15 @@
     - Apache-2.0
   categories:
     - dev-cpp
+- repo: xrepo
+  srcname: fbthrift
+  visiblename: fbthrift
+  version: 2024.03.25
+  origversion: null
+  status: legacy
+  summary: Facebook's branch of Apache Thrift, including a new C++ server.
+  licenses:
+    - Apache-2.0
 - repo: macports
   srcname: devel/fbthrift
   binname: fbthrift
@@ -392,15 +410,6 @@
 - repo: xrepo
   srcname: fbthrift
   visiblename: fbthrift
-  version: 2024.03.25
-  origversion: null
-  status: legacy
-  summary: Facebook's branch of Apache Thrift, including a new C++ server.
-  licenses:
-    - Apache-2.0
-- repo: xrepo
-  srcname: fbthrift
-  visiblename: fbthrift
   version: 2024.04.01
   origversion: null
   status: legacy
@@ -449,15 +458,6 @@
   version: 2024.07.08
   origversion: null
   status: legacy
-  summary: Facebook's branch of Apache Thrift, including a new C++ server.
-  licenses:
-    - Apache-2.0
-- repo: xrepo
-  srcname: fbthrift
-  visiblename: fbthrift
-  version: 2024.07.15
-  origversion: null
-  status: outdated
   summary: Facebook's branch of Apache Thrift, including a new C++ server.
   licenses:
     - Apache-2.0
